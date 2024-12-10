@@ -4,6 +4,8 @@
     <div class="flex-1">
       <a class="btn btn-ghost text-xl">Permit Pros</a>
     </div>
+
+    <ThemeSwitcher />
     <div class="flex flex-row items-center">
       <div class="flex-none">
         <ul class="menu menu-horizontal px-1 max-sm:hidden">
