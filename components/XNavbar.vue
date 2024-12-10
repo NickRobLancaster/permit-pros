@@ -5,6 +5,7 @@
       <a class="btn btn-ghost text-xl">Permit Pros</a>
     </div>
 
+    <!-- theme switcher -->
     <ThemeSwitcher />
     <div class="flex flex-row items-center">
       <div class="flex-none">
